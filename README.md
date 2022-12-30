@@ -8,6 +8,7 @@ A list of interesting random dungeon generators
 ## online tools
 ### dungeons
 - https://donjon.bin.sh/fantasy/dungeon/
+- https://www.myth-weavers.com/generate_dungeon.php
 
 ### towns
 - https://donjon.bin.sh/fantasy/town/
