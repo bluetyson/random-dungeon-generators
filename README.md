@@ -8,6 +8,8 @@ A list of interesting random dungeon generators
 ## online tools
 ### dungeons
 - https://donjon.bin.sh/fantasy/dungeon/
+- https://www.gozzys.com/dungeon-maps
+- https://www.inkwellideas.com/roleplaying_tools/random_dungeon/
 - https://www.myth-weavers.com/generate_dungeon.php
 
 ### infinite scroll
