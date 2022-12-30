@@ -10,6 +10,9 @@ A list of interesting random dungeon generators
 - https://donjon.bin.sh/fantasy/dungeon/
 - https://www.myth-weavers.com/generate_dungeon.php
 
+### infinite scroll
+- https://oubliette.bin.sh/
+
 ### towns
 - https://donjon.bin.sh/fantasy/town/
 
