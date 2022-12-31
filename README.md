@@ -9,7 +9,7 @@ A list of interesting random dungeon generators
 - https://python.plainenglish.io/create-a-random-dungeon-with-python-f17118c1eebd
 - https://github.com/JnyJny/DungeonGenerator2
 
-### Perul
+### Perl
 - [donjon](https://donjon.bin.sh/code/dungeon/)
 
 ### Javascript
