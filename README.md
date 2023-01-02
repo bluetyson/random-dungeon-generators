@@ -41,6 +41,9 @@ A list of interesting random dungeon generators
 ### towns
 - https://donjon.bin.sh/fantasy/town/
 
+### Base Building Rules
+- [Reddit Thread](https://www.reddit.com/r/RPGdesign/comments/brvv5c/games_with_good_basebuilding_rules/)
+
 ## Generator Lists
 - https://zhodani.space/stuff/generators/ - Many and assorted
 
