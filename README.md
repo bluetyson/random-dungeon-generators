@@ -23,6 +23,9 @@ A list of interesting random dungeon generators
 ### C++
 - [donjon adaptation](https://github.com/ehei1/donjon)
 
+## Go
+- [Flokey82](https://github.com/Flokey82/go-dungeon)
+
 ### C
 - [Business Card Sized](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
 
