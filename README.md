@@ -20,7 +20,10 @@ A list of interesting random dungeon generators
 
 ### Javascript
 - https://www.freecodecamp.org/news/how-to-make-your-own-procedural-dungeon-map-generator-using-the-random-walk-algorithm-e0085c8aa9a/
- -https://github.com/ironarachne/ironarachne/tree/main/src/modules/dungeon
+- https://github.com/ironarachne/ironarachne/tree/main/src/modules/dungeon
+- Cities
+ - https://github.com/Praxxian/RPG-City-Generator
+
 
 ### C++
 - [donjon adaptation](https://github.com/ehei1/donjon)
